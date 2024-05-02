@@ -64,7 +64,7 @@
 							</div>
 
 							<p class="question wow fadeInUp delay-0-1s">Have question? <a href="faq.php">Please review our FAQ's</a></p>
-							<p class="question wow fadeInUp delay-0-1s">Doctors, Specialists and Surgeons, want to get involved? <a href="faq.php">Please contact Us!</a></p>
+							<p class="question wow fadeInUp delay-0-1s">Doctors, Specialists and Surgeons, want to get involved? <a href="contact.php">Please contact Us!</a></p>
 
 							<img src="assets/images/banner/banner-img-shape-3.png" class="banner-img-shape-3" alt="Image">
 						</div>
@@ -74,25 +74,25 @@
 					<div id="carouselExampleFade" class="carousel slide carousel-fade">
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-							<img src="assets/images/screen_home/screen_pro1.png" height="200px" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro1.png" height="200px" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro2.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro2.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro3.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro3.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro4.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro4.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro5.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro5.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro6.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro6.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro7.png" class="d-block w-100" alt="...">
+							<img src="assets/images/screen_home/screen_pro7.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 						</div>
 						<button class="carousel-control-prev " type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev" style="color: red;">
@@ -146,7 +146,7 @@
 						<div class="services-content wow fadeInUp delay-0-2s">
 							
 							<h2>Dr Simon Platt</h2>
-							<p align="justify">world renowned Orthopaedic Surgeon, and his colleagues have spent the last 10 years defining and designing new innovative tools to help Patients efficiently through their Diagnosis Pathway</p>
+							<p align="justify">"World renowned Orthopaedic Surgeon", and his colleagues have spent the last 10 years defining and designing new innovative tools to help Patients efficiently through their Diagnosis Pathway</p>
 							<p align="center" ><i>"We don’t know what we don’t know"</i></p>
 							<p align="center"><i>"But patients are extraordinarily good and accurate at telling us where it hurts and what their condition is felling like"</i></p>
 							<p align="justify">DIAGNOSTICA App is built to get first hand Patient Feedback on their Joint Condition. What they say matters. Through a set of Surveys (PROMs – Patient Reported Outcome Measures), coupled with Evidence-Based AI smarts, we aim to  generate a quick and reliable Diagnosis that will guide the patient to the correct treatment pathway in the least amount of time.</p>
@@ -208,16 +208,15 @@
 			<img src="assets/images/counter-shape-2.png" alt="Image" class="shape counter-shape-2">
 		</div> -->
 
-	<table class="table table-bordered" style='margin:20px 5px; padding:10px'>
+	
+<table class="table table-bordered " style='margin:20px 5px; padding:10px '>
  
-    
-
   <tbody>
 	<tr style="text-align:center">
 		<td><img src="assets/images/table/Pic1.png" alt="Image"></td>
-		<td><img src="assets/images/table/Pic2.png" alt=""></td>
-		<td><img src="assets/images/table/Pic3.png" alt=""></td>
-		<td><img src="assets/images/table/Pic4.png" alt=""></td>
+		<td><img src="assets/images/table/Pic2.png" alt="Image"></td>
+		<td><img src="assets/images/table/Pic3.png" alt="Image"></td>
+		<td><img src="assets/images/table/Pic4.png" alt="Image"></td>
 	</tr>
 
   <tr style="text-align:center">
@@ -247,7 +246,7 @@
 		<div class="services-area pt-100 pb-70">
 			<div class="container">
 				<div class="row align-items-center">
-					<div class="col-xl-7">
+					<div class="col-xl-7 items-center">
 						
 							<span class="top-title">DIAGNOSTICA App is Three Parts, all working together in Harmony. </span>
 							<h2>Patient Portal – Diagnostica App downloaded from Apple or Google </h2>
@@ -258,7 +257,8 @@
 							<p align="justify">Diagnostica is going to reward Patients and Clinicians for participating in the use of the Diagnostica App. It will be a Token that has real value and will help monetise Patient and Clinician data and Participation. Patient and Clinicians who have already started using the Diagnostica App will be rewarded retrospectively, so don’t worry, you won’t miss out. More information relating to DIAG will be released soon.</p>
 							<h3>Download VERSION 1 (Foot & Ankle Conditions) Here:</h3>
 							<div class="banner-btn wow fadeInUp delay-0-8s">
-								<img src="assets/images/appstore.png" width="50%" alt="">
+							<a href="https://play.google.com/store/apps/details?id=com.diagnos.diagnostica" target="blanck" ><img src="assets/images/appstoreplay.png" width="30%" alt="blanck"></a>
+								<a href="https://apps.apple.com/in/app/diagnostica/id6475622690"  target="blanck" ><img src="assets/images/appstorebtn.png" width="30%" alt="" style='padding-top: 6px'></a>
 							</div>
 						
 					</div>
@@ -268,7 +268,7 @@
 						<div class="col-lg-12 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-2s">
 									<h3>
-										<a href=""  align="center">PROMS</a></br>
+										PROMS
 									</h3>
 									<p class="mb-0">Patient Reported Outcome Measures (Basically Patient Surveys – YOUR SAY)</p>
 								</div>
@@ -277,10 +277,8 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-2s">
 									<h3>
-										<a href=""  align="center">MOXFQ</a></br>
-										<a href="">
-										Manchester-Oxford Foot Questionnaire
-										</a>
+									MOXFQ <br>
+									Manchester-Oxford Foot Questionnaire
 									</h3>
 									<p class="mb-0">This Survey is used to assess how foot problems impair health-related quality of life can be completed before and after surgery.</p>
 								</div>
@@ -289,10 +287,7 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-4s">
 									<h3>
-										<a href="">
-										EQ-5D Related Quality of Life Questionnaire
-
-										</a>
+									EQ-5D Related Quality of Life Questionnaire
 									</h3>
 									<p class="mb-0">This Survey will help you define your mobility, self-care, usual activities, pain/discomfort and anxiety/depression. <br><br><br></p> 
 								</div>
@@ -301,9 +296,7 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-6s">
 									<h3>
-										<a href="">
-										PCS Patient Characteristics Survey
-										</a>
+									PCS Patient Characteristics Survey
 									</h3>
 									<p class="mb-0">This Survey is aimed at your demographics, your Social positions and Clinical and Functioning abilities.</p>
 								</div>
@@ -312,9 +305,7 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-8s">
 									<h3>
-										<a href="">
-										SF-36 Short Form Health Survey
-										</a>
+									SF-36 Short Form Health Survey
 									</h3>
 									<p class="mb-0">This Survey is designed to help you define your quality of life as you perceive it. </p> <br>
 								</div>
@@ -464,7 +455,7 @@
 								<img src="assets/images/video.png" alt="Image">
 	
 								<div class="play-button">
-									<a href="https://www.dropbox.com/scl/fi/mopuxacf0ktzbm7ux1n9v/Diagnostica-App-Walkthrough.mp4?rlkey=8e3xndrbis6l58fh19m5vba77&dl=0" class="video-btn popup-youtube">
+									<a href="https://www.youtube.com/watch?v=Xkww7eGk7-M" class="video-btn popup-youtube">
 										<i class="ri-play-fill"></i>
 									</a>
 								</div>
@@ -486,37 +477,37 @@
 
 				<div class="client-say-slide owl-carousel owl-theme">
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro1.png"  alt="">
+						<img src="assets/images/screen_home/screen_pro1.png"  class='rounded-3' alt="image">
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro2.png" alt="">
+						<img src="assets/images/screen_home/screen_pro2.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro3.png" alt="">
+						<img src="assets/images/screen_home/screen_pro3.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro4.png" alt="">
+						<img src="assets/images/screen_home/screen_pro4.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro5.png" alt="">
+						<img src="assets/images/screen_home/screen_pro5.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro6.png" alt="">
+						<img src="assets/images/screen_home/screen_pro6.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro7.png" alt="">
+						<img src="assets/images/screen_home/screen_pro7.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro8.png" alt="">
+						<img src="assets/images/screen_home/screen_pro8.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro9.png" alt="">
+						<img src="assets/images/screen_home/screen_pro9.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro10.png" alt="">
+						<img src="assets/images/screen_home/screen_pro10.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro11.png" alt="">
+						<img src="assets/images/screen_home/screen_pro11.png" alt="image" class='rounded-3'>
 					</div>
 
 					

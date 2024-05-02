@@ -86,7 +86,7 @@
 						</div>
 					</div> -->
 
-					<img src="assets/images/contact/map.png" class="shape page-shape-2" alt="Image" > 
+					<img src="assets/images/contact/map1.png" class="shape page-shape-2" alt="Image" > 
 				</div>
 			</div>
 		</div>

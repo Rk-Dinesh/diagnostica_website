@@ -88,7 +88,7 @@
 														<li>	We do not necessarily agree with all the information our community may enter into the forum and so you need to filter what is right and worthwhile for you.</li>
 													</ol>
 												</li>
-												<li>Is your question personal or you feel should not be shared with other? Yes, then the second way to get our attention and response, is to use the <a href="">Contact Us</a> form. This is regularly monitored, and we will respond as soon as we possibly can.</li>
+												<li>Is your question personal or you feel should not be shared with other? Yes, then the second way to get our attention and response, is to use the <a href="contact.php">Contact Us</a> form. This is regularly monitored, and we will respond as soon as we possibly can.</li>
 											</ol>
 										
 
@@ -105,7 +105,7 @@
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<p><span>A:</span> Don’t panic. Your data is safe and secure. Just uninstall your App and reinstall it. Your credentials will let you back in and your data will reappear. If this doesn’t work, then <a href="">Contact Us</a> and let us know what phone and operating system you are using so we can Diagnose.</p>
+									<p><span>A:</span> Don’t panic. Your data is safe and secure. Just uninstall your App and reinstall it. Your credentials will let you back in and your data will reappear. If this doesn’t work, then <a href="contact.php">Contact Us</a> and let us know what phone and operating system you are using so we can Diagnose.</p>
 								</div>
 							</div>
 						</div>
@@ -131,7 +131,7 @@
 							</h2>
 							<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<p><span>A:</span> Please <a href="">Contact Us</a> to setup a conversation.</p>
+									<p><span>A:</span> Please <a href="contact.php">Contact Us</a> to setup a conversation.</p>
 								</div>
 							</div>
 						</div>

@@ -61,27 +61,27 @@
 					<div class="col-lg-2 col-sm-6">
 						<div class="single-footer-widget wow fadeInUp delay-0-8s">
 							<h3>Connect Socially</h3>
-							<p>Connet & Follow us on our social platforms</p>
+							<p>Connect & Follow us on our social platforms</p>
 
 							<div class="app-btn">
 							<ul class="social-link">
 								<li>
-									<a href="https://facebook.com/" target="_blank">
-										<i class="ri-facebook-fill"></i>
+									<a href="https://www.youtube.com/channel/UCDGBMjWO24k3YPmKqrCKHKA" target="_blank">
+										<i class="ri-youtube-fill"></i>
 									</a>
 								</li>
 								<li>
-									<a href="https://twitter.com/" target="_blank">
+									<a href="https://twitter.com/diagnostic_app" target="_blank">
 										<i class="ri-twitter-fill"></i>
 									</a>
 								</li>
 								<li>
-									<a href="https://linkedin.com/" target="_blank">
+									<a href="https://www.linkedin.com/company/diagnostica-pty-ltd/mycompany/" target="_blank">
 										<i class="ri-linkedin-fill"></i>
 									</a>
 								</li>
 								<li>
-									<a href="https://instagram.com/" target="_blank">
+									<a href="https://www.instagram.com/diagnostica.app/" target="_blank">
 										<i class="ri-instagram-line"></i>
 									</a>
 								</li>
@@ -100,7 +100,7 @@
 				<div class="copy-right-bg">
 					<div class="row align-items-center wow fadeInLeft delay-0-2s">
 						<div class="col-lg-12">
-							<p>© 2024 – All Rights Reserved by Diagnostica Solutions Pty Ltd. Diagnostica and its Logo is Trademarked. Please read our <a href="">Cookies, Privacy Policy and Terms of Use</a>.</p>
+							<p>© 2024 – All Rights Reserved by Diagnostica Solutions Pty Ltd. Diagnostica and its Logo is Trademarked. Please read our <a href="">Cookies</a>, <a href="privacy-policy.php">Privacy Policy</a> and <a href="terms-conditions.php">Terms of Use</a>.</p>
 						</div>
 						<div class="col-lg-6">
 							
