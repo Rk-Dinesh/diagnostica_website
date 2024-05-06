@@ -77,10 +77,10 @@
 							<img src="assets/images/screen_home/screen_pro1.png" height="200px" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro2.png" class="d-block w-100 rounded-3" alt="...">
+							<img src="assets/images/screen_home/screen_pro12.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro3.png" class="d-block w-100 rounded-3" alt="...">
+							<img src="assets/images/screen_home/screen_pro13.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
 							<img src="assets/images/screen_home/screen_pro4.png" class="d-block w-100 rounded-3" alt="...">
@@ -207,43 +207,52 @@
 			<img src="assets/images/counter-shape-1.png" alt="Image" class="shape counter-shape-1">
 			<img src="assets/images/counter-shape-2.png" alt="Image" class="shape counter-shape-2">
 		</div> -->
+		<div class="what-we-provide-area style-three ptb-100">
+			<div class="container">
+				<div class="card">
+					<div class="card-body table-responsive">
+					<table class="table "  >
+ 
+ <tbody >
+	   <tr style="text-align:center">
+		   <td><img src="assets/images/table/Pic1.png" alt="Image" class='rounded-3'></td>
+		   <td><img src="assets/images/table/Pic2.png" alt="Image" class='rounded-3'></td>
+		   <td><img src="assets/images/table/Pic3.png" alt="Image" class='rounded-3'></td>
+		   <td><img src="assets/images/table/Pic4.png" alt="Image" class='rounded-3'></td>
+	   </tr>
+
+	   <tr style="text-align:center">
+	   <td scope="col">Hip Replacement</td>
+	   <td scope="col">Knee Replacement</td>
+	   <td scope="col">Osteoarthritis (OA)</td>
+	   <td scope="col">Average time to complete all <br/> Diagnostica Surveys</td>
+	   </tr>
+	   <tr style="text-align:center">
+	   <td scope="col">OECD averages</td>
+	   <td scope="col">OECD averages</td>
+	   <td scope="col">Estimated one in four joint replacement <br/> surgeries are unnecessary</td>
+	   <td scope="col">3-5 mins</td>
+	   </tr>
+	   <tr style="text-align:center">
+	   <td scope="col">172 per 100 000 population</td>
+	   <td scope="col">119 per 100 000 population</td>
+	   <td scope="col">2016 Report</td>
+	   <td scope="col">Small price to pay for better Diagnosis</td>
+	   </tr>
+  
+ </tbody>
+</table>
+					</div>
+				</div>
+			</div>
+		</div>
 
 	
-<table class="table table-bordered " style='margin:20px 5px;  '>
- 
-  <tbody style='border:2px solid black; '>
-		<tr style="text-align:center">
-			<td><img src="assets/images/table/Pic1.png" alt="Image" class='rounded-3'></td>
-			<td><img src="assets/images/table/Pic2.png" alt="Image" class='rounded-3'></td>
-			<td><img src="assets/images/table/Pic3.png" alt="Image" class='rounded-3'></td>
-			<td><img src="assets/images/table/Pic4.png" alt="Image" class='rounded-3'></td>
-		</tr>
 
-		<tr style="text-align:center">
-		<td scope="col">Hip Replacement</td>
-		<td scope="col">Knee Replacement</td>
-		<td scope="col">Osteoarthritis (OA)</td>
-		<td scope="col">Average time to complete all <br/> Diagnostica Surveys</td>
-		</tr>
-		<tr style="text-align:center">
-		<td scope="col">OECD averages</td>
-		<td scope="col">OECD averages</td>
-		<td scope="col">Estimated one in four joint replacement <br/> surgeries are unnecessary</td>
-		<td scope="col">3-5 mins</td>
-		</tr>
-		<tr style="text-align:center">
-		<td scope="col">172 per 100 000 population</td>
-		<td scope="col">119 per 100 000 population</td>
-		<td scope="col">2016 Report</td>
-		<td scope="col">Small price to pay for better Diagnosis</td>
-		</tr>
-   
-  </tbody>
-</table>
 		<!-- End Counter Area -->
 
 		<!-- Strat Services Area -->
-		<div class="services-area pt-100 pb-70">
+		<div class="services-area  pb-70">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-xl-7 items-center">
@@ -480,10 +489,10 @@
 						<img src="assets/images/screen_home/screen_pro1.png"  class='rounded-3' alt="image">
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro2.png" alt="image" class='rounded-3'>
+						<img src="assets/images/screen_home/screen_pro12.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro3.png" alt="image" class='rounded-3'>
+						<img src="assets/images/screen_home/screen_pro13.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
 						<img src="assets/images/screen_home/screen_pro4.png" alt="image" class='rounded-3'>
