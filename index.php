@@ -209,34 +209,34 @@
 		</div> -->
 
 	
-<table class="table table-bordered " style='margin:20px 5px; padding:10px '>
+<table class="table table-bordered " style='margin:20px 5px;  '>
  
-  <tbody>
-	<tr style="text-align:center">
-		<td><img src="assets/images/table/Pic1.png" alt="Image"></td>
-		<td><img src="assets/images/table/Pic2.png" alt="Image"></td>
-		<td><img src="assets/images/table/Pic3.png" alt="Image"></td>
-		<td><img src="assets/images/table/Pic4.png" alt="Image"></td>
-	</tr>
+  <tbody style='border:2px solid black; '>
+		<tr style="text-align:center">
+			<td><img src="assets/images/table/Pic1.png" alt="Image" class='rounded-3'></td>
+			<td><img src="assets/images/table/Pic2.png" alt="Image" class='rounded-3'></td>
+			<td><img src="assets/images/table/Pic3.png" alt="Image" class='rounded-3'></td>
+			<td><img src="assets/images/table/Pic4.png" alt="Image" class='rounded-3'></td>
+		</tr>
 
-  <tr style="text-align:center">
-      <td scope="col">Hip Replacement</td>
-      <td scope="col">Knee Replacement</td>
-      <td scope="col">Osteoarthritis (OA)</td>
-	  <td scope="col">Average time to complete all <br/> Diagnostica Surveys</td>
-    </tr>
-	<tr style="text-align:center">
-      <td scope="col">OECD averages</td>
-      <td scope="col">OECD averages</td>
-      <td scope="col">Estimated one in four joint replacement <br/> surgeries are unnecessary</td>
-	  <td scope="col">3-5 mins</td>
-    </tr>
-	<tr style="text-align:center">
-      <td scope="col">172 per 100 000 population</td>
-      <td scope="col">119 per 100 000 population</td>
-      <td scope="col">2016 Report</td>
-	  <td scope="col">Small price to pay for better Diagnosis</td>
-    </tr>
+		<tr style="text-align:center">
+		<td scope="col">Hip Replacement</td>
+		<td scope="col">Knee Replacement</td>
+		<td scope="col">Osteoarthritis (OA)</td>
+		<td scope="col">Average time to complete all <br/> Diagnostica Surveys</td>
+		</tr>
+		<tr style="text-align:center">
+		<td scope="col">OECD averages</td>
+		<td scope="col">OECD averages</td>
+		<td scope="col">Estimated one in four joint replacement <br/> surgeries are unnecessary</td>
+		<td scope="col">3-5 mins</td>
+		</tr>
+		<tr style="text-align:center">
+		<td scope="col">172 per 100 000 population</td>
+		<td scope="col">119 per 100 000 population</td>
+		<td scope="col">2016 Report</td>
+		<td scope="col">Small price to pay for better Diagnosis</td>
+		</tr>
    
   </tbody>
 </table>
@@ -296,7 +296,7 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-6s">
 									<h3>
-									PCS Patient Characteristics Survey
+									PCS Patient Catastrophising Survey
 									</h3>
 									<p class="mb-0">This Survey is aimed at your demographics, your Social positions and Clinical and Functioning abilities.</p>
 								</div>
