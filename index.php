@@ -80,7 +80,7 @@
 							<img src="assets/images/screen_home/screen_pro12.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
-							<img src="assets/images/screen_home/screen_pro13.png" class="d-block w-100 rounded-3" alt="...">
+							<img src="assets/images/screen_home/screen_pro14.png" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
 							<img src="assets/images/screen_home/screen_pro4.png" class="d-block w-100 rounded-3" alt="...">
@@ -305,7 +305,7 @@
 							<div class="col-lg-6 col-md-6">
 								<div class="single-services-box wow fadeInUp delay-0-6s">
 									<h3>
-									PCS Patient Catastrophising Survey
+									PCS Pain Catastrophizing Score
 									</h3>
 									<p class="mb-0">This Survey is aimed at your demographics, your Social positions and Clinical and Functioning abilities.</p>
 								</div>
@@ -461,7 +461,7 @@
 	
 						<div class="col-lg-6">
 							<div class="solutions-img wow fadeInRight delay-0-2s">
-								<img src="assets/images/video.png" alt="Image">
+								<img src="assets/images/video1.png" alt="Image">
 	
 								<div class="play-button">
 									<a href="https://www.youtube.com/watch?v=Xkww7eGk7-M" class="video-btn popup-youtube">
@@ -492,7 +492,7 @@
 						<img src="assets/images/screen_home/screen_pro12.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
-						<img src="assets/images/screen_home/screen_pro13.png" alt="image" class='rounded-3'>
+						<img src="assets/images/screen_home/screen_pro14.png" alt="image" class='rounded-3'>
 					</div>
 					<div class="single-client-say">
 						<img src="assets/images/screen_home/screen_pro4.png" alt="image" class='rounded-3'>
