@@ -126,8 +126,8 @@
 		<div class="doctors-area pb-70">
 			<div class="container">
 				<div class="section-title wow fadeInUp delay-0-2s">
-					<span class="top-title">Our Doctors</span>
-					<h2>Meet Our Specialized Doctors</h2>
+					<h2  style='margin:20px;'>Our Team</h2>
+					<h3> Meet Our Doctors, Founders, and Supporters</h3>
 				</div>
 
 				<div class="row">
@@ -135,7 +135,7 @@
 						<div class="single-doctor wow fadeInUp delay-0-2s">
 							<img src="assets/images/doctors/simon.png" alt="Image">
 							<h3>Dr Simon Platt </h3>
-							<span>(CEO and Founder) Orthopaedic Surgeon</span>
+							<span>(CEO and Founder) <br/> Orthopaedic Surgeon</span>
 
 							<ul>
 								
@@ -157,7 +157,7 @@
 						<div class="single-doctor wow fadeInUp delay-0-4s">
 							<img src="assets/images/doctors/gillian.png" alt="Image">
 							<h3>Dr Gillian Jackson </h3>
-							<span>(Co-Founder) Orthopaedic Surgeon</span>
+							<span>(Co-Founder) <br/> Orthopaedic Surgeon</span>
 
 							<ul>
 								<li>
@@ -174,7 +174,8 @@
 						<div class="single-doctor wow fadeInUp delay-0-6s">
 							<img src="assets/images/doctors/russell.png" alt="Image">
 							<h3>Dr Russell Martin</h3>
-							<br/>
+						
+							<span>(Co-Founder)</span><br/>
 							<span>Mathematician & Data Scientist</span>
 
 							<ul>
@@ -196,8 +197,9 @@
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-doctor wow fadeInUp delay-0-8s">
 							<img src="assets/images/doctors/leszek.png" alt="Image">
-							<h3>Professor Leszek Gasieniec</h3>
-							<span>Professor in Algorithms</span>
+							<h3>Dr Leszek Gąsieniec</h3>
+						
+							<span>(Co-Founder) <br/>Professor in Algorithms</span>
 
 							<ul>
 								
@@ -208,7 +210,7 @@
 								</li>
 
 								<li>
-									<a href="https://en.wikipedia.org/wiki/Leszek_A._G%C4%85sieniec" target="_blank">
+									<a href="https://scholar.google.com/citations?user=TbQXQ7EAAAAJ&hl=en" target="_blank">
 									<i class="ri-global-fill"></i>
 									</a>
 								</li>
@@ -221,7 +223,7 @@
 						<div class="single-doctor wow fadeInUp delay-0-8s">
 							<img src="assets/images/doctors/richard.png" alt="Image">
 							<h3>Dr Richard Satur</h3>
-							<span>PhD in AI and Big-Data Mining</span>
+							<span> (Co-Founder) <br/>PhD in AI and Big-Data Mining</span>
 
 							<ul>
 								
