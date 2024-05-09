@@ -241,6 +241,7 @@
 						<div class="single-doctor wow fadeInUp delay-0-8s">
 							<img src="assets/images/doctors/phil.png" alt="Image">
 							<h3>Phil Jimmieson</h3>
+							<br/>
 							<span>Lecturer at University of Liverpool</span>
 
 							<ul>
@@ -259,6 +260,7 @@
 						<div class="single-doctor wow fadeInUp delay-0-8s">
 							<img src="assets/images/doctors/brad.png" alt="Image">
 							<h3>Brad Gillan</h3>
+							<br/>
 							<span>Solutions Architect</span>
 
 							<ul>
