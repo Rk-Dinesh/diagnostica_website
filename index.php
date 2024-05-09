@@ -464,7 +464,7 @@
 								<img src="assets/images/video1.png" alt="Image">
 	
 								<div class="play-button">
-									<a href="https://youtu.be/hOqlVQ8BJ2Q" class="video-btn popup-youtube">
+									<a href="https://www.youtube.com/watch?v=hOqlVQ8BJ2Q" class="video-btn popup-youtube">
 										<i class="ri-play-fill"></i>
 									</a>
 								</div>
