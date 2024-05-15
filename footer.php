@@ -20,10 +20,16 @@
 							<h3>Contacts Info</h3>
 
 							<ul class="contact-info">
-								<li>
-									<span>Address:</span>
-									Office locations in Australia, Indonesia, India and expanding to other locations near you.
-								</li>
+							<li style="list-style: none;">
+    <span style="font-weight: bold;">Address:</span>
+    <div style="margin-top: 5px;">
+        <div style="margin-bottom: 5px;">Doctor Simon Platt,</div>
+        <div style="margin-bottom: 5px;">Suite 14 - Pindara Place,</div>
+        <div style="margin-bottom: 5px;">13 Carrara Street,</div>
+        <div style="margin-bottom: 5px;">Benowa, Queensland Australia, 4217.</div>
+    </div>
+</li>
+
 								<li>
 									<span>Support:</span>
 									<a href="">support@diagonistica.app</a>
