@@ -206,7 +206,7 @@
 									</li>
 									<li>
 										<a href="#">
-											Tele Medicine
+											Telemedicine
 										</a>
 									</li>
 									<li>

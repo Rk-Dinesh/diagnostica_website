@@ -77,13 +77,13 @@
 					<h3>Medical Disclaimer:</h3>
 					<ol style="list-style-type:lower-alpha">
 						<li>Diagnostica is a tool designed to assist in medical diagnosis but does not replace professional medical advice, diagnosis, or treatment. Always consult with a qualified healthcare professional for accurate medical guidance.</li>
-						<li> The app provides information based on the data provided by users and does not guarantee the accuracy or completeness of the diagnosis. Users should use the apps output as a reference and consult with a healthcare professional for confirmation.</li>
+						<li> The app provides information based on the data provided by users and does not guarantee the accuracy or completeness of the diagnosis. Users should use the app's output as a reference and consult with a healthcare professional for confirmation.</li>
 					</ol>
 					<div class="gap-20"></div>
 
 					<h3>User Responsibilities:</h3>
 					<ol style="list-style-type:lower-alpha">
-						<li>ou are responsible for the accuracy and completeness of the information provided to Diagnostica. Incorrect or incomplete information may lead to inaccurate diagnoses.</li>
+						<li>You are responsible for the accuracy and completeness of the information provided to Diagnostica. Incorrect or incomplete information may lead to inaccurate diagnoses.</li>
 						<li>Keep your login credentials secure and do not share them with others. You are responsible for any activity that occurs under your account.</li>
 					</ol>
 

@@ -72,7 +72,7 @@
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingOne">
 								<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									Q: IWhat if my Question is not in this FAQ?
+									Q: What if my Question is not in this FAQ?
 								</button>
 							</h2>
 			
@@ -105,7 +105,7 @@
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<p><span>A:</span> Don’t panic. Your data is safe and secure. Just uninstall your App and reinstall it. Your credentials will let you back in and your data will reappear. If this doesn’t work, then <a href="contact.php">Contact Us</a> and let us know what phone and operating system you are using so we can Diagnose.</p>
+									<p><span>A:</span> Don’t panic. Your data is safe and secure. Just uninstall your App and reinstall it. Your credentials will let you back in and your data will reappear. If this doesn’t work, then <a href="contact.php">Contact Us</a> and let us know what phone and operating system you are using so we can address the issue.</p>
 								</div>
 							</div>
 						</div>
@@ -198,7 +198,7 @@
 							</h2>
 							<div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<p><span>A:</span> The only mandatory fields are, Your First and Last Names, Your Mobile so we can perform 2 factor authentication with you, your Email which is also your Login and your Password. All other fields are optional. In addition, the Images and certain PROMs (Patient Reported Outcome Measures or simply, Surveys) are mandatory. The Diagnostica App will let you know what PROMs are mandatory for which joint condition.</p>
+									<p><span>A:</span> The only mandatory fields are, Your First and Last Names, Your Mobile so we can perform 2 factor authentication with you, your Email which will be used as your login credential, and your Password. All other fields are optional. In addition, the Images and certain PROMs (Patient Reported Outcome Measures or simply, Surveys) are mandatory. The Diagnostica App will let you know what PROMs are mandatory for which joint condition.</p>
 								</div>
 							</div>
 						</div>
@@ -206,7 +206,7 @@
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingTen">
 								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-									Q:Can I choose my Doctor?
+									Q: Can I choose my Doctor?
 								</button>
 							</h2>
 							<div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionExample">

@@ -52,9 +52,9 @@
 							<p>Welcome to the new, SMART Diagnosis Tool, DIAGNOSTICA</p>
 							<h3 class="wow fadeInUp delay-0-4s">THE WORLD’S FIRST DIAGNOSIS APP CREATED BY RENOWNED SURGEONS UTILISING REAL EVIDENCE-BASED AI TO HELP DRIVE EFFICIENCIES AND ADDING TO YOUR DIAGNOSIS.</h3>
 							<p class="porttitor wow fadeInUp delay-0-6s">Revolutionising the way patients and doctors interact to create precise diagnoses through a Smart Diagnosis App</p>
-							<p class="">If you suffer from musculoskeletal pain  then consider using the DIAGNOSTICA App to help Diagnosis your condition. </p>
-							<p>It’s simple to use and tackles the way you actually feel. Your say matters</p>
-							<p>VERSION 1 is out now and is targeted to FOOT & ANKLE Conditions. Other JOINT Conditions will be released soon</p>
+							<p class="">If you suffer from musculoskeletal pain, then consider using the DIAGNOSTICA App to help Diagnosis your condition. </p>
+							<p>It’s simple to use and tackles the way you actually feel. Your say matters.</p>
+							<p>VERSION 1 is out now and is targeted to FOOT & ANKLE Conditions. Other JOINT Conditions will be released soon.</p>
 
 							<div class="banner-btn wow fadeInUp delay-0-8s">
 								<a href="https://play.google.com/store/apps/details?id=com.diagnos.diagnostica" target="blanck" ><img src="assets/images/appstoreplay.png" width="25%" alt="blanck"></a>
@@ -74,7 +74,7 @@
 					<div id="carouselExampleFade" class="carousel slide carousel-fade">
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-							<img src="assets/images/screen_home/screen_pro1.png" height="200px" class="d-block w-100 rounded-3" alt="...">
+							<img src="assets/images/screen_home/screen_pro1.jpeg" height="200px" class="d-block w-100 rounded-3" alt="...">
 							</div>
 							<div class="carousel-item">
 							<img src="assets/images/screen_home/screen_pro12.png" class="d-block w-100 rounded-3" alt="...">
@@ -146,11 +146,11 @@
 						<div class="services-content wow fadeInUp delay-0-2s">
 							
 							<h2>Dr Simon Platt</h2>
-							<p align="justify">"World renowned Orthopaedic Surgeon", and his colleagues have spent the last 10 years defining and designing new innovative tools to help Patients efficiently through their Diagnosis Pathway</p>
+							<p align="justify">"World-renowned Orthopaedic Surgeon" and his colleagues have spent the last 10 years defining and designing new innovative tools to help Patients efficiently through their Diagnosis Pathway</p>
 							<p align="center" ><i>"We don’t know what we don’t know"</i></p>
-							<p align="center"><i>"But patients are extraordinarily good and accurate at telling us where it hurts and what their condition is felling like"</i></p>
-							<p align="justify">DIAGNOSTICA App is built to get first hand Patient Feedback on their Joint Condition. What they say matters. Through a set of Surveys (PROMs – Patient Reported Outcome Measures), coupled with Evidence-Based AI smarts, we aim to  generate a quick and reliable Diagnosis that will guide the patient to the correct treatment pathway in the least amount of time.</p>
-							<p align="justify">DIAGNOSTICA Version 1 for Foot & Ankle is now live. Try it and share this information with your doctor. It will help them diagnose you more accurately and much more quickly. Soon we will release an Evidence-Based AI driven diagnosis upgrade that will provide diagnosis based on real, verified data including your responses to the surveys, that will further assist your doctor.</p>
+							<p align="center"><i>"But patients are extraordinarily good and accurate at telling us where it hurts and what their condition is feeling like"</i></p>
+							<p align="justify">DIAGNOSTICA App is built to get first hand Patient Feedback on their Joint Condition. What they say matters. Through a set of Surveys (PROMs – Patient Reported Outcome Measures), coupled with Evidence-Based AI-smarts, we aim to  generate a quick and reliable Diagnosis that will guide the patient to the correct treatment pathway in the least amount of time.</p>
+							<p align="justify">DIAGNOSTICA Version 1 for Foot & Ankle is now live. Try it and share this information with your doctor. It will help them diagnose you more accurately and much more quickly. Soon we will release an Evidence-Based AI-driven diagnosis upgrade that will provide diagnosis based on real, verified data including your responses to the surveys, that will further assist your doctor.</p>
 							<p align="center"><i>“Your voice matters”… “This is your App”</i></p>
 
 							
@@ -445,7 +445,7 @@
 									<div class="accordion-item">
 										<h2 class="accordion-header" id="headingSix">
 											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-											The Evidence-Based AI Diagnosis is Coming Soon.
+											The Evidence-Based AI Diagnosis is coming soon.
 											</button>
 										</h2>
 										<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">

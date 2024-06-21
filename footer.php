@@ -9,7 +9,7 @@
 								<img src="assets/images/diag.png" width="200px" class="white-logo" alt="Image">
 							</a>
 
-							<p align="justify" >Diagnostica’s App is the next step in Diagnosing Patients with Conditions. Diagnostica will streamline decision making as to those patients who may require surgey and those who do not. In addition we will be able to track patients progress over time with respct to their condition and/or treatment  Diagnostica’s App will  streamline the provision of non-surgical pathways such as hysiotherapy, nutrition, traditional therapeutic and/or alternative medicine approaches; it may simpky suggest upgrade in footwear or insoloes. These are life altering Diagnosis paths delivered accurately and quickly. </p>
+							<p align="justify" >Diagnostica’s App is the next step in Diagnosing Patients with Conditions. Diagnostica will streamline decision making as to those patients who may require surgey and those who do not. In addition we will be able to track patient’s progress over time with respect to their condition and/or treatment. Diagnostica’s App will  streamline the provision of non-surgical pathways such as physiotherapy, nutrition, traditional therapeutic and/or alternative medicine approaches; it may simply suggest upgrade in footwear or insoles. These are life-altering Diagnosis paths delivered accurately and quickly. </p>
 
 							
 						</div>
@@ -21,7 +21,7 @@
 
 							<ul class="contact-info">
 							<li style="list-style: none;">
-    <span style="font-weight: bold;">Address:</span>
+    <span style="font-weight: bold;">Address :</span>
     <div style="margin-top: 5px;">
         <div style="margin-bottom: 5px;">Doctor Simon Platt,</div>
         <div style="margin-bottom: 5px;">Suite 14 - Pindara Place,</div>
@@ -31,11 +31,11 @@
 </li>
 
 								<li>
-									<span>Support:</span>
+									<span>Support :</span>
 									<a href="">support@diagonistica.app</a>
 								</li>
 								<li>
-									<span>Company: </span>
+									<span>Company : </span>
 									Diagnostica Solutions Pty Ltd
 								</li>
 							</ul>

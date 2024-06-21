@@ -175,7 +175,7 @@
 											>
 									
 											<label class="form-check-label" for="gridCheck">
-												I agree to the <a href="terms-conditions.php">terms</a> and <a href="privacy-policy.php">privacy policy</a>
+												I agree to the <a href="terms-conditions.php" style="text-decoration: underline; color:blue" >terms</a> and <a href="privacy-policy.php" style="text-decoration: underline;color:blue">privacy policy</a>
 											</label>
 											<div class="help-block with-errors gridCheck-error"></div>
 										</div>

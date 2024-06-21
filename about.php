@@ -67,10 +67,10 @@
 					<div class="col-xl-4">
 						<div class="about-content wow fadeInRight delay-0-2s">
 							<span class="top-title">Diagnostica App Fundamentals</span>
-							<h2>Version 1 is for Foot & Ankle Conditions.</h2>
+							<h2>Version 1 is for Foot & Ankle Conditions</h2>
 							<ul>
 							<li>After obtaining sufficient data from participating Patients, The AI will use real, Evidence-Based data to start to produce AI derived Diagnoses.</li>
-							<li>The Patient Surveys, Image data pin-pointing the conditions the Patient is feeling, and the Evidence-Based AI Diagnosis, will assist Doctors to form their Diagnosis and accompany their Patient Results (i.e. Pathology, radiology, etc).</li>
+							<li>The Patient Surveys, Image data pin-pointing the conditions the Patient is feeling, and the Evidence-Based AI Diagnosis will assist Doctors to form their Diagnosis and accompany their Patient Results (i.e. Pathology, radiology, etc).</li>
 							<li>Diagnostica App will help with Patient Queues, Waiting Times and possibly the need for an Automatic decision to perform Surgery.</li>
 							<li>Diagnostica App is good for the Patient, Healthcare System, Specialists, Doctors and Healthcare Providers globally.</li>
 							</ul>
